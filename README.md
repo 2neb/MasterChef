@@ -11,6 +11,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+![logo star tre 2](https://github.com/2neb/MasterChef/assets/149821531/01270460-de7a-4a6c-9604-9ed40809895a)
 
 
 <!-- PROJECT SHIELDS -->
