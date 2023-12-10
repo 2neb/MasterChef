@@ -460,7 +460,7 @@ private void mostrarVentanaMenu() {
                         JFrame FrameArbol = new JFrame("MasterChef By 2neb JTree");
 
                         // Crear el nodo raíz
-                        DefaultMutableTreeNode MiArbolito = new DefaultMutableTreeNode("MasterChef");
+                            DefaultMutableTreeNode MiArbolito = new DefaultMutableTreeNode("MasterChef");
 
                         // nodo 2
                         DefaultMutableTreeNode Nivel1Node1 = new DefaultMutableTreeNode("Restaurantes recomendados");
@@ -623,11 +623,6 @@ class Ganadores {
         return nombre + " - " + tipoCocina + " (año: " + calificacion + ")";
     }
 }
-        
-        
-        
-        
-        
 
     });
         

@@ -32,7 +32,7 @@ public class Entradaa {
     }
     
     
-    public void MiEntrada()
+        public void MiEntrada()
     {
                             JFrame Menu11 = new JFrame("Entradas - Uso de JTable | Politecnico Internacional");
                             DefaultTableModel Tabla11 = new DefaultTableModel();
